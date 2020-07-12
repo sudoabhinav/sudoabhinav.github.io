@@ -8,6 +8,16 @@ comments: false
     
 <center><a href="https://sudoabhinav.github.io"><b>Abhinav Singh</b></a> </center>
 
-I'm a student at Jaypee Institute of Information Technology Noida, pursuing my Bachelor of Engineering from the field of computer science. I have a passion for coding and have been actively involved in participating in various competitive programming contests to hone my skills.
-My stint with web development is not recent, and I've been involved in the development of enterprise software in my interships with software development organizations.I've worked with Django, python scripting, jQuery and ajax.
+Working with [RxLogix](https://www.rxlogix.com/en/)
 
+
+I have an year of experience working with:
+- ETL module development using 
+- 
+
+I also published in titled : Get-a-Doc : A doctor reccommender system which talks about an improvement which can be used in the present doctor reccommender systems like practo, using a mongo-db sharded database in IEEEE XYZ journal.
+[Link to the paper](https://ieeexplore.ieee.org/document/8748776).
+
+I'm an avid learner and ensure working on improving my skills set around machine learning, Python, leveraging udemy/coursera in the process. I also regularly participate in coding competitions or do practice problems available on platforms like Hackerank / CodeChef.
+
+I worked with [STMicroelectronics](https://www.st.com/content/st_com/en.html) & more, during my internship. where in I have used [Python](https://python.org) and [Django](https://www.djangoproject.com/) to build and maintain web applications. In my internship with Techtonic Enterprises I have worked on a chatbot module using Python and its libraries available for natural language processing. IP throttling was also applied on the application using flask-limiter.

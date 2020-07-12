@@ -1,2 +1,2 @@
 # sudoabhinav.github.io
-My blog
+My blog and project page repository.
