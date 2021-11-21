@@ -8,16 +8,11 @@ comments: false
     
 <center><a href="https://sudoabhinav.github.io"><b>Abhinav Singh</b></a> </center>
 
-Working with [RxLogix](https://www.rxlogix.com/en/)
+Currently working as a Software Engineer at [Lambdatest] (https://www.lambdatest.com/) and have close to 3 years of commercial software development experience.
 
+I am a hard working, self taught programmer and the opportunity to work is all I look forward to and success will follow is what I believe.
 
-I have an year of experience working with:
-- ETL module development using SQL and PL/SQL
-- Follow Up Difference Module using Python
+During my professional experience I have worked with product companies in pharmacovigilance and testing domains. I speak binary with Golang, Python, SQL and also have worked in web development and Machine Learning sprints.
 
-I have also published a research paper titled : Get-a-Doc : A doctor reccommender system which talks about an improvement which can be used in the present doctor reccommender systems like practo, using a mongo-db sharded database in IEEEE (ICRITO 2018).
-[Link to the paper](https://ieeexplore.ieee.org/document/8748776).
-
-I'm an avid learner and ensure working on improving my skills set around machine learning, Python, leveraging udemy/coursera in the process. I also regularly participate in coding competitions or do practice problems available on platforms like [Hackerank](https://www.hackerrank.com/sudoabhinav) / [CodeChef](https://www.codechef.com/users/abhinavs).
-
-I worked with [STMicroelectronics](https://www.st.com/content/st_com/en.html) & more, during my internship, where in I have used [Python](https://python.org) and [Django](https://www.djangoproject.com/) to build and maintain web applications. In my internship with [Techtonic Enterprises](https://www.wearetechtonic.com/) I have worked on a chatbot module using Python and its libraries available for natural language processing. IP throttling was also applied on the application using flask-limiter.
+During my time at graduate school I got the opportunity to research and publish “[Get-a-doc : A Doctor Recommender System]” (https://ieeexplore.ieee.org/document/8748776), which highlights the improvement to online health consultation
+applications in India.
