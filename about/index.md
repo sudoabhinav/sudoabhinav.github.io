@@ -8,11 +8,11 @@ comments: false
     
 <center><a href="https://sudoabhinav.github.io"><b>Abhinav Singh</b></a> </center>
 
-Currently working as a Software Engineer at [Lambdatest] (https://www.lambdatest.com/) and have close to 3 years of commercial software development experience.
+I am currently working as a Software Engineer at [Credgenics] (https://credgenics.com/), with close to 6 years of hands-on experience in commercial software development.
 
-I am a hard working, self taught programmer and the opportunity to work is all I look forward to and success will follow is what I believe.
+I'm a self-taught, dedicated programmer who believes that if you're given the opportunity to work, success will naturally follow. I thrive on solving real-world problems with clean, efficient code.
 
-During my professional experience I have worked with product companies in pharmacovigilance and testing domains. I speak binary with Golang, Python, SQL and also have worked in web development and Machine Learning sprints.
+Over the years, I've contributed to product teams across finance, pharmacovigilance, and testing domains. I’m fluent in Golang, Python, SQL, PostgreSQL, and MongoDB, and have worked across web development stacks and Machine Learning projects.
 
 During my time at graduate school I got the opportunity to research and publish “[Get-a-doc : A Doctor Recommender System]” (https://ieeexplore.ieee.org/document/8748776), which highlights the improvement to online health consultation
 applications in India.
